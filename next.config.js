@@ -7,7 +7,7 @@ module.exports = withTypesscript(
         cssLoaderOptions: {
             camelCase: true
         },
-        target: 'serverless',
+        target: 'server',
     }),
 )
 
